@@ -1,6 +1,5 @@
 <p align="center">
-I build simple bots for crypto airdrops.  
-More tools and scripts coming soon.
+𝑰 𝒃𝒖𝒊𝒍𝒅 𝒔𝒊𝒎𝒑𝒍𝒆 𝒃𝒐𝒕𝒔 𝒇𝒐𝒓 𝒄𝒓𝒚𝒑𝒕𝒐 𝒂𝒊𝒓𝒅𝒓𝒐𝒑𝒔. 𝑴𝒐𝒓𝒆 𝒕𝒐𝒐𝒍𝒔 𝒂𝒏𝒅 𝒔𝒄𝒓𝒊𝒑𝒕𝒔 𝒄𝒐𝒎𝒊𝒏𝒈 𝒔𝒐𝒐𝒏.
 </p>
 
 <p align="center">
